@@ -1,2 +1,51 @@
-# RepositorioBialet
-Repositorio creado especialmente para el sitio web turístico de Bialet Massé
+<!DOCTYPE html>
+<html lang="es">
+<html>
+    <head>
+        
+        <title>Turismo en Bialet Masse</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="turismo.css">
+    </head>
+
+    <body>
+       
+       <header>
+            <nav>
+                <div class="icono-menu">
+                    <img src="./imagenes/image-removebg-preview.png" id="icono-menu">
+                </div>
+                <div class="titulo">
+                    <h1>Bialet Masse</h1>
+                </div>
+                <div class="cont-menu-active" id="menu">
+                    <ul class="menu" id="menu">
+                        <li><a href="">Menú</a> 
+                        <li><a href="">¿Cómo llegar?</a>
+                            <ul>
+                                <li><a href="">Tren</a></li>
+                                <li><a href="">Colectivo</a></li>
+                                <li><a href="">Avión</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="">Ubicación</a></li>
+                        <li><a href="">Guía Turística</a></li>
+                        <ol type=a>
+                            <li><a href="">Comida</a></li> 
+                            <li><a href="">Municipalidad</a></li>
+                            <li><a href="">Ríos</li>
+                            <li><a href="">Destacados</a></li>
+                            <li><a href="">Emergencias</a></li>
+                            <li><a href="">Estación de servicio</a></li>
+                        </ol>
+                        </li>
+                 
+                    </ul>
+                </div>
+                
+        </nav>
+        </header>
+         
+</body>
+            
+    
